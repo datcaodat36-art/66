@@ -1,0 +1,6 @@
+# Netlify: cho phep truy cap truc tiep / tai lai trang tai cac URL dang
+# /battle/ten-ai-vs-ten-ai (dung cho tinh nang AI Battle) van tra ve
+# index.html thay vi bao loi 404, vi day la ung dung 1 trang (SPA).
+# Neu ban KHONG dung Netlify, xem file .htaccess (Apache) hoac cau hinh
+# tuong duong tren Nginx/Vercel/Cloudflare Pages.
+/battle/*  /index.html  200

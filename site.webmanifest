@@ -1,0 +1,27 @@
+{
+  "name": "Tool AI",
+  "short_name": "Tool AI",
+  "description": "Discover, search and compare AI tools for learning, work and creativity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "brand/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "brand/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "brand/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
